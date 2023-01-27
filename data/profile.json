@@ -47,13 +47,13 @@
   ],
   "portfolio": [
     {
-      "name": "Formação Python Developer",
-      "url": "https://www.dio.me/certificate/B9119DE3",
+      "name": "BootCamp Geração Tech Unimed-BH FullStack",
+      "url": "https://www.dio.me/certificate/6AB6B8E4",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "BootCamp .Net Developer",
+      "url": "https://www.dio.me/certificate/0BAED2C4",
       "github": true
     }
   ],
